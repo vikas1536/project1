@@ -12,7 +12,7 @@
 ~H
 # Command Line History (newest to oldest):
 :wq
-|2,0,1708439919,,"wq"
+|2,0,1708442046,,"wq"
 
 # Search String History (newest to oldest):
 
@@ -25,18 +25,26 @@
 # Registers:
 
 # File marks:
-'0  1  11  ~/deploy.sh
-|4,48,1,11,1708439919,"~/deploy.sh"
-'1  1  26  ~/deploy.sh
-|4,49,1,26,1708439892,"~/deploy.sh"
-'2  1  20  ~/dbutitils.java
-|4,50,1,20,1708439630,"~/dbutitils.java"
-'3  1  13  ~/stringynitils.java
-|4,51,1,13,1708439544,"~/stringynitils.java"
+'0  1  20  ~/xyz.java
+|4,48,1,20,1708442046,"~/xyz.java"
+'1  1  11  ~/deploy.sh
+|4,49,1,11,1708439919,"~/deploy.sh"
+'2  1  26  ~/deploy.sh
+|4,50,1,26,1708439892,"~/deploy.sh"
+'3  1  20  ~/dbutitils.java
+|4,51,1,20,1708439630,"~/dbutitils.java"
+'4  1  13  ~/stringynitils.java
+|4,52,1,13,1708439544,"~/stringynitils.java"
 
 # Jumplist (newest first):
+-'  1  20  ~/xyz.java
+|4,39,1,20,1708442046,"~/xyz.java"
 -'  1  11  ~/deploy.sh
 |4,39,1,11,1708439919,"~/deploy.sh"
+-'  1  11  ~/deploy.sh
+|4,39,1,11,1708439919,"~/deploy.sh"
+-'  1  26  ~/deploy.sh
+|4,39,1,26,1708439892,"~/deploy.sh"
 -'  1  26  ~/deploy.sh
 |4,39,1,26,1708439892,"~/deploy.sh"
 -'  1  20  ~/dbutitils.java
@@ -47,6 +55,30 @@
 |4,39,1,20,1708439630,"~/dbutitils.java"
 -'  1  20  ~/dbutitils.java
 |4,39,1,20,1708439630,"~/dbutitils.java"
+-'  1  20  ~/dbutitils.java
+|4,39,1,20,1708439630,"~/dbutitils.java"
+-'  1  20  ~/dbutitils.java
+|4,39,1,20,1708439630,"~/dbutitils.java"
+-'  1  20  ~/dbutitils.java
+|4,39,1,20,1708439630,"~/dbutitils.java"
+-'  1  20  ~/dbutitils.java
+|4,39,1,20,1708439630,"~/dbutitils.java"
+-'  1  13  ~/stringynitils.java
+|4,39,1,13,1708439544,"~/stringynitils.java"
+-'  1  13  ~/stringynitils.java
+|4,39,1,13,1708439544,"~/stringynitils.java"
+-'  1  13  ~/stringynitils.java
+|4,39,1,13,1708439544,"~/stringynitils.java"
+-'  1  13  ~/stringynitils.java
+|4,39,1,13,1708439544,"~/stringynitils.java"
+-'  1  13  ~/stringynitils.java
+|4,39,1,13,1708439544,"~/stringynitils.java"
+-'  1  13  ~/stringynitils.java
+|4,39,1,13,1708439544,"~/stringynitils.java"
+-'  1  13  ~/stringynitils.java
+|4,39,1,13,1708439544,"~/stringynitils.java"
+-'  1  13  ~/stringynitils.java
+|4,39,1,13,1708439544,"~/stringynitils.java"
 -'  1  13  ~/stringynitils.java
 |4,39,1,13,1708439544,"~/stringynitils.java"
 -'  1  13  ~/stringynitils.java
@@ -65,6 +97,13 @@
 |4,39,1,13,1708439544,"~/stringynitils.java"
 
 # History of marks within files (newest to oldest):
+
+> ~/xyz.java
+	*	1708442044	0
+	"	1	20
+	^	1	21
+	.	1	20
+	+	1	20
 
 > ~/deploy.sh
 	*	1708439918	0
